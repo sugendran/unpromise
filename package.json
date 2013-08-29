@@ -1,0 +1,21 @@
+{
+  "name": "unpromise",
+  "version": "0.0.1",
+  "description": "Call a callback appropriately from a promise",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sugendran/unpromise"
+  },
+  "author": "Sugendran Ganess",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "promise",
+    "callback",
+    "async"
+  ]
+}
